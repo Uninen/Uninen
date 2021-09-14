@@ -1,16 +1,14 @@
-### Hi there 👋
+# Ville Säävuori ([Uninen](https://twitter.com/uninen))
 
-<!--
-**Uninen/Uninen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Good hello! I'm a 40-something Web Monkey and a DJ from Turku, Finland. Working mostly with Python, Django, JavaScript, Typescript, Vue.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <samp>
+    <a href="https://www.unessa.net/">Homepage</a> &middot;
+    <a href="https://hoyci.unessa.net/">Blog</a> &middot;
+    <a href="https://health.unessa.net/">Exercise Log</a> &middot;
+    <a href="https://www.strava.com/athletes/51397757">Strava</a> &middot;
+    <a href="https://twitter.com/uninen">Twitter</a> &middot;
+    <a href="https://instagram.com/djuninen">Instagram</a>
+  </samp>
+</p>
