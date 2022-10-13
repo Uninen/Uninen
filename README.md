@@ -1,6 +1,6 @@
 # Ville Säävuori ([Uninen](https://twitter.com/uninen))
 
-Good hello! I'm a 40-something Web Monkey and DJ from Turku, Finland. Working mostly with Python, Django, JavaScript, Typescript, Vue.
+Good hello! I'm a 40-something Web Monkey and DJ from Turku, Finland. Working mostly with Python, Django, JavaScript, Typescript, Vue. Available for hire!
 
 <p>
   <samp>
